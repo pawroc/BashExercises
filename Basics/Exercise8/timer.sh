@@ -45,7 +45,7 @@ while [ $MINUTES -ge 0  ]; do
 	count_down
 done
 
-echo Time left!
+echo Time passed!
 SEC=1
 MINUTES=0
 
