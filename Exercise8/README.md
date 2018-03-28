@@ -12,3 +12,9 @@ This script is a simple game which consist in guessing the result od multiplying
 of the game from 1 to 10:
 	- level 1  --> the numbers generating for expressions are between 1-10
 	- level 10 --> the numbers generating for expressions are between 1-100
+
+### *if-fi.sh*
+This script represents two way of if-elif-fi statements used in scripting. Except of that, you can find there
+also very frequently used check statements which are used to check if some file is a plain file, script,
+executable file or directory. 
+
