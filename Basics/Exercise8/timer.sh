@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# This script counts down from given time (in minutes) and when is counts to zero then it starts to count up. 
+# It is intended to display on the screen the time left to accomplish some task and then display how much time 
+# we are late with the task.
+#
+# Usage:
+# ./timer.sh <TIME_IN_MINUTES>
+
 MINUTES=$1
 SEC=0
 
